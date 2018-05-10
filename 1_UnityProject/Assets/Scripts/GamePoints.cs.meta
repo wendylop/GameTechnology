@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 45bfc2f7b3a824ef8b99010392a23c46
+timeCreated: 1525981916
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pointText: {fileID: 114907008969339470, guid: 5ecc09ba0ebac4371af8933b527529cf,
+      type: 2}
+  - gameOverText: {fileID: 114508004450673176, guid: 6fe907ca02bd9476294d9a7e84faf589,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
